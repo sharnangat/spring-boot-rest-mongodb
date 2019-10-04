@@ -28,7 +28,7 @@ Below is the diagram shows the high level architecture of the application
 ## Step 1: Create database and collection in MongoDB
 
  ```
-      use sb_rest
+      use users_db
  ```
  
  Create collection in the DB
