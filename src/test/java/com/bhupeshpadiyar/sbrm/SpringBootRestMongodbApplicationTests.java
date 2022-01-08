@@ -11,6 +11,9 @@ public class SpringBootRestMongodbApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+	// code is modifed
+	
 	}
 
 }
